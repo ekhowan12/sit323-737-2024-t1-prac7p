@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "6645f41eec6e333fe173eed8"
+  },
+  "apiVersion:": "kind:",
+  "rbac": {
+    "authorization": {
+      "k8s": {
+        "io/v1": "ClusterRoleBinding"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6645f41eec6e333fe173eed9"
+  },
+  "apiVersion:": "metadata:"
+},
+{
+  "_id": {
+    "$oid": "6645f41eec6e333fe173eeda"
+  }
+},
+{
+  "_id": {
+    "$oid": "6645f41eec6e333fe173eedb"
+  },
+  "apiVersion:": "roleRef:"
+},
+{
+  "_id": {
+    "$oid": "6645f41eec6e333fe173eedc"
+  }
+},
+{
+  "_id": {
+    "$oid": "6645f41eec6e333fe173eedd"
+  }
+},
+{
+  "_id": {
+    "$oid": "6645f41eec6e333fe173eede"
+  }
+},
+{
+  "_id": {
+    "$oid": "6645f41eec6e333fe173eedf"
+  },
+  "apiVersion:": "subjects:"
+},
+{
+  "_id": {
+    "$oid": "6645f41eec6e333fe173eee0"
+  },
+  "apiVersion:": "-",
+  "rbac": {
+    "authorization": {
+      "k8s": {
+        "io/v1": "kind:"
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6645f41eec6e333fe173eee1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6645f41eec6e333fe173eee2"
+  }
+}]
